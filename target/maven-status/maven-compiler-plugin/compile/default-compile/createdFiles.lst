@@ -1,0 +1,9 @@
+com\amazon\qa\pages\Electronicspage.class
+com\amazon\qa\pages\MobilesPage.class
+com\amazon\qa\pages\TodayDeals.class
+com\amazon\qa\util\TestUtil.class
+com\amazon\qa\pages\LoginPage.class
+com\amazon\qa\base\Testbase.class
+com\amazon\qa\pages\Homepage.class
+com\qa\ExtentReportListener\ExtentReport.class
+com\amazon\qa\pages\Registerpage.class

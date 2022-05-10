@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15815" started-at="2022-05-10T06:15:35 IST" finished-at="2022-05-10T06:15:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15815" started-at="2022-05-10T06:15:35 IST" finished-at="2022-05-10T06:15:51 IST">
+      <class name="com.qa.amazon.testcases.HomepageTestcases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.amazon.testcases.HomepageTestcases@2f0a87b3]" name="setUp" is-config="true" duration-ms="6287" started-at="2022-05-10T06:15:35 IST" finished-at="2022-05-10T06:15:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:1, instance:com.qa.amazon.testcases.HomepageTestcases@2f0a87b3]" name="verifyTitle" duration-ms="363" started-at="2022-05-10T06:15:41 IST" finished-at="2022-05-10T06:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="veriftySearchBox()[pri:2, instance:com.qa.amazon.testcases.HomepageTestcases@2f0a87b3]" name="veriftySearchBox" duration-ms="64" started-at="2022-05-10T06:15:42 IST" finished-at="2022-05-10T06:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veriftySearchBox -->
+        <test-method status="PASS" signature="verifySearchBoxbtn()[pri:3, instance:com.qa.amazon.testcases.HomepageTestcases@2f0a87b3]" name="verifySearchBoxbtn" duration-ms="41" started-at="2022-05-10T06:15:42 IST" finished-at="2022-05-10T06:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBoxbtn -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:com.qa.amazon.testcases.HomepageTestcases@2f0a87b3]" name="tear" is-config="true" duration-ms="190" started-at="2022-05-10T06:15:42 IST" finished-at="2022-05-10T06:15:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- com.qa.amazon.testcases.HomepageTestcases -->
+      <class name="com.qa.amazon.testcases.TodayDealsTestcases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.amazon.testcases.TodayDealsTestcases@4fcd19b3]" name="setUp" is-config="true" duration-ms="4185" started-at="2022-05-10T06:15:42 IST" finished-at="2022-05-10T06:15:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchbox()[pri:1, instance:com.qa.amazon.testcases.TodayDealsTestcases@4fcd19b3]" name="verifySearchbox" duration-ms="283" started-at="2022-05-10T06:15:46 IST" finished-at="2022-05-10T06:15:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchbox -->
+        <test-method status="PASS" signature="verifySearchboxbtn()[pri:2, instance:com.qa.amazon.testcases.TodayDealsTestcases@4fcd19b3]" name="verifySearchboxbtn" duration-ms="29" started-at="2022-05-10T06:15:46 IST" finished-at="2022-05-10T06:15:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchboxbtn -->
+        <test-method status="PASS" signature="verifyPrimebtn()[pri:3, instance:com.qa.amazon.testcases.TodayDealsTestcases@4fcd19b3]" name="verifyPrimebtn" duration-ms="72" started-at="2022-05-10T06:15:46 IST" finished-at="2022-05-10T06:15:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPrimebtn -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:com.qa.amazon.testcases.TodayDealsTestcases@4fcd19b3]" name="tear" is-config="true" duration-ms="4211" started-at="2022-05-10T06:15:46 IST" finished-at="2022-05-10T06:15:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- com.qa.amazon.testcases.TodayDealsTestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
